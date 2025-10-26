@@ -56,26 +56,34 @@ The platform includes **role-based access** for Users, Librarians, and Admins, e
    cd library-management-system
 
 2. **Navigate to the Django Project Directory**
-
+    ```bash
    cd Library-managment
 3. **Create and Activate the Virtual Environment**
+    ```bash
    .\myenv\Scripts\activate
 
 4. **Navigate to the Django Project subfolder**
-     cd django_project
+     ```bash
+   cd django_project
 5. **Install Required Packages**
-  pip install -r requirements.txt
+    ```bash
+   pip install -r requirements.txt
 6. **Set Up the Database**
+    ```bash
    python manage.py migrate
 7. **Run the Django Server**
-   python manage.py runserver
+     ```bash
+    python manage.py runserver
 
 ### 🔹 Frontend (React)
 1. **Navigate to the React Project Directory**
+     ```bash
    cd ../tutorials/my-app
 2. **Install Required Packages**
+     ```bash
    npm install
 3. **Start the React Application**
+     ```bash
    npm start
 
 ## 🚀 Usage
