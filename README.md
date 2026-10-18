@@ -110,8 +110,7 @@ To contribute:
 
 
 ## 📄 License
-See the LICENSE
- file for details
+This project is licensed under the MIT License.
 
 ## 📸 Screenshots
 **Login page**
